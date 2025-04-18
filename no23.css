@@ -1,0 +1,74 @@
+.head1{
+    color: rgb(220, 20, 127);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 40px;
+    font-weight: bold;
+}
+.image1{
+    height: 360px;
+    width:540px;
+   
+}
+.card1{
+    background-color: #f5f7fa;
+    color: #323f4b;
+    height: 400px;
+    width: 100%;
+}
+.sp1{
+    border-width: 8px;
+    border-color: #e4e7eb;
+    background-color:  #cbd2d9;
+    color: #323f4b;
+    font-size: 30px;
+    font-weight: 500;
+    border-style: solid;
+    padding: 25px;
+    padding-top: 15px;
+    padding-bottom: 10px;
+   border-radius: 12px;
+}
+.sp2{
+    color: #c4c4c4;
+    font-family: 'Cambria', 'Cochin', 'Georgia', 'Times', 'Times New Roman', 'serif';
+    font-size: 60px;
+    font-weight: bold;
+   
+}
+.sp3{
+    border-width: 8px;
+    border-color: #e4e7eb;
+    background-color:  #cbd2d9;
+    color: #323f4b;
+    font-size: 30px;
+    font-weight: 500;
+    border-style: solid;
+    padding: 25px;
+    margin-left: 10px;
+    padding-top: 15px;
+    padding-bottom: 10px;
+   border-radius: 12px;
+
+}
+.user1{
+    text-align: center;
+    color: #323f4b;
+    background-color: #cbd2d9;
+    font-family: "Roboto";
+    font-size: 40px;
+    font-weight: bold;
+    width: 180px;
+    height: 80px;
+    border-style: solid;
+    border-width: 8px;
+    border-color: #e4e7eb;
+    border-radius: 12px;
+   margin-left: 10px;
+}
+.game-result {
+    color: #ffffff;
+    background-color: #f5f7fa;
+    font-family: "Roboto";
+    font-size: 24px;
+    font-weight: 500;
+}
